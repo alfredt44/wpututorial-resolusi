@@ -1,3 +1,4 @@
 resolusi:
 - lulus kuliah
 - bisa pake git dan github
+- bisa ....
